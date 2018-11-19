@@ -1,0 +1,18 @@
+HTTrack3.48-21 launched on Fri, 07 Sep 2018 18:42:01 at https://www.krasotaiskusstva.com/themes/operna/?ref=ki-themes
+(httrack https://www.krasotaiskusstva.com/themes/operna/?ref=ki-themes )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/_images/hero-bg.jpg (from https://www.krasotaiskusstva.com/themes/operna/_css/style.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/_images/plants-bg.jpg (from https://www.krasotaiskusstva.com/themes/operna/_css/style.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/fonts/glyphicons-halflings-regular.eot (from https://www.krasotaiskusstva.com/themes/operna/_css/bootstrap.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/fonts/glyphicons-halflings-regular.eot? (from https://www.krasotaiskusstva.com/themes/operna/_css/bootstrap.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/fonts/glyphicons-halflings-regular.woff (from https://www.krasotaiskusstva.com/themes/operna/_css/bootstrap.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/fonts/glyphicons-halflings-regular.ttf (from https://www.krasotaiskusstva.com/themes/operna/_css/bootstrap.css)
+18:42:32	Error: 	"Not Found" (404) at link https://www.krasotaiskusstva.com/themes/operna/fonts/glyphicons-halflings-regular.svg (from https://www.krasotaiskusstva.com/themes/operna/_css/bootstrap.css)
+
+HTTrack Website Copier/3.48-21 mirror complete in 31 seconds : 92 links scanned, 84 files written (2194488 bytes overall) [1843253 bytes received at 59459 bytes/sec], 519027 bytes transferred using HTTP compression in 27 files, ratio 25%, 23.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
